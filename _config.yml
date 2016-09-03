@@ -1,20 +1,4 @@
-name: domshov
-favicon: null
-layout_spectrum: 0.03729587933048606
 typography_spectrum: 0.6337162649724633
-title: 'Dom Shovelton : Composer & Sound Designer'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -26,4 +10,20 @@ color:
   lightness: 0.19552486832253635
   saturation: 0.2951384470798075
   rhythmicContrast: 0.3468236669432372
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.03729587933048606
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: domshov
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Dom Shovelton '
 purpose: []
